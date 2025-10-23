@@ -1,0 +1,34 @@
+# Archivos compilados
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Configuracion con datos sensibles
+application.properties
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*~
